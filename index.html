@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>AllWalletDevs</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="icon" href="img/wallet.svg">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" integrity="sha512-EZLkOqwILORob+p0BXZc+Vm3RgJBOe1Iq/0fiI7r/wJgzOFZMlsqTa29UEl6v6U6gsV4uIpsNZoV32YZqrCRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    html, body {
+      min-height: 100%;
+      height: 100%;
+      width: 100%;
+      overflow-x: hidden;
+    }
+    body {
+      font-family: 'PT Sans', sans-serif;
+      position: relative;
+      background: #eee;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Nunito', sans-serif;
+    }
+    #logo {
+      width: 10rem;
+      padding-top: 2rem;
+      padding-right: 2rem;
+      vertical-align: middle;
+    }
+    .calendar {
+      width: 100%;
+      height: 25rem;
+    }
+    .discord {
+      width: 100%;
+      height: 25rem;
+    }
+    h2 {
+      text-align: center;
+    }
+    .wide {
+      max-width: 1080px;
+      text-align: justify;
+      padding-bottom: 2rem;
+    }
+    .wider {
+      max-width: 1200px;
+      text-align: justify;
+      padding-bottom: 2rem;
+    }
+    .page-buttons {
+      padding-top: 10rem;
+    }
+    main {
+      background: whitesmoke;
+    }
+    footer h2, main .container {
+      padding-top: 3rem;
+    }
+    footer h2 {
+      background: whitesmoke;
+      padding-bottom: 1rem;
+    }
+    .carousel-wrapper {
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-bottom: 2rem;
+    }
+    .carousel {
+      margin: auto;
+      width: calc(100vw - 60px);
+    }
+    .carousel img {
+      width: 100%;
+      height: 50px;
+      object-fit: contain;
+      max-width: 50px;
+      margin: auto;
+    }
+    @media (min-width: 400px) {
+      .wide {
+        width: 95%;
+      }
+      .wider {
+        width: 98%;
+      }
+    }
+    @media (min-width: 550px) {
+      .wide {
+        width: 90%;
+      }
+      .wider {
+        width: 95%;
+      }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <div class="container wider">
+    <div class=row>
+     <div class="twelve columns">
+      <h1><img id="logo" src="img/wallet.svg" alt="">AllWalletDevs</h1>
+    </div>
+  </div>
+</div>
+  <div class="container wide u-full-width">
+    <div class=row>
+     <div class="twelve columns">
+      <p>AllWalletDevs is a forum for Ethereum developers, designers, and interested users to come together regularly and discuss wallets. Our goals are to foster collaboration and coordination in the ecosystem, create open standards, and build software for the common good. Participation is open to anyone, whether you work on a wallet yourself, build dApps, or are just curious!</p>
+      Join us on discord!
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class=row>
+   <div class="six columns">
+    <h2>Discord</h2>
+    <iframe class="discord" src="https://discord.com/widget?id=966361524547489873&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  </div>
+  <div class="six columns">
+    <h2>Calendar</h2>
+    <iframe class="calendar" src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FToronto&showTitle=0&showDate=1&showTabs=0&showCalendars=0&showPrint=0&mode=AGENDA&title&src=c_d60aea193f7e5cff6be9753f8c5b818fe9e45f884cbdcb6f5da889068d4aced2%40group.calendar.google.com&color=%237986CB&color=%237CB342&color=%23009688&color=%23D81B60&color=%23D50000&color=%23D81B60" style="border:solid 1px #777" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
+</div>
+</main>
+<footer>
+  <h2>Participants</h2>
+    <div class="carousel-wrapper">
+      <div class=carousel>
+        <div>
+          <img src="img/members/Accumulate.svg" title="Accumulate" alt="Accumulate">
+        </div>
+        <div>
+          <img src="img/members/AlphaWallet.svg" title="AlphaWallet" alt="AlphaWallet">
+        </div>
+        <div>
+          <img src="img/members/Ambire.svg" title="Ambire" alt="Ambire">
+        </div>
+        <div>
+          <img src="img/members/Argent.svg" title="Argent" alt="Argent">
+        </div>
+        <div>
+          <img src="img/members/AstroX.svg" title="AstroX" alt="AsxtroX">
+        </div>
+        <div>
+          <img src="img/members/BlockWallet.svg" title="BlockWallet" alt="BlockWallet">
+        </div>
+        <div>
+          <img src="img/members/Brave.svg" title="Brave" alt="Brave">
+        </div>
+        <div>
+          <img src="img/members/Candide.svg" title="Candide" alt="Candide">
+        </div>
+        <div>
+          <img src="img/members/Coinbase.svg" title="Coinbase" alt="Coinbase">
+        </div>
+        <div>
+          <img src="img/members/Eyepto.png" title="Eyepto" alt="Eyepto">
+        </div>
+        <div>
+          <img src="img/members/Frame.svg" title="Frame" alt="Frame">
+        </div>
+        <div>
+          <img src="img/members/GnosisSafe.svg" title="GnosisSafe" alt="GnosisSafe">
+        </div>
+        <div>
+          <img src="img/members/GridPlus.svg" title="GridPlus" alt="GridPlus">
+        </div>
+        <div>
+          <img src="img/members/imToken.svg" title="imToken" alt="imToken">
+        </div>
+        <div>
+          <img src="img/members/Keystone.svg" title="Keystone" alt="Keystone">
+        </div>
+        <div>
+          <img src="img/members/Ledger.svg" title="Ledger" alt="Ledger">
+        </div>
+        <div>
+          <img src="img/members/MaskNetwork.svg" title="MaskNetwork" alt="MaskNetwork">
+        </div>
+        <div>
+          <img src="img/members/Metamask.svg" title="Metamask" alt="Metamask">
+        </div>
+        <div>
+          <img src="img/members/Minerva.svg" title="Minerva" alt="Minerva">
+        </div>
+        <div>
+          <img src="img/members/Phantom.svg" title="Phantom" alt="Phantom">
+        </div>
+        <div>
+          <img src="img/members/Pillar.svg" title="Pillar" alt="Pillar">
+        </div>
+        <div>
+          <img src="img/members/Portis.svg" title="Portis" alt="Portis">
+        </div>
+        <div>
+          <img src="img/members/Porton.svg" title="Porton" alt="Porton">
+        </div>
+        <div>
+          <img src="img/members/Rainbow.svg" title="Rainbow" alt="Rainbow">
+        </div>
+        <div>
+          <img src="img/members/Sequence.svg" title="Sequence" alt="Sequence">
+        </div>
+        <div>
+          <img src="img/members/Soul.svg" title="Soul" alt="Soul">
+        </div>
+        <div>
+          <img src="img/members/Stackup.svg" title="Stackup" alt="Stackup">
+        </div>
+        <div>
+          <img src="img/members/Tally.svg" title="Tally" alt="Tally">
+        </div>
+        <div>
+          <img src="img/members/Trust.svg" title="Trust" alt="Trust">
+        </div>
+        <div>
+          <img src="img/members/UniPass.svg" title="UniPass" alt="UniPass">
+        </div>
+        <div>
+          <img src="img/members/Unstoppable.svg" title="Unstoppable" alt="Unstoppable">
+        </div>
+        <div>
+          <img src="img/members/Verso.svg" title="Verso" alt="Verso">
+        </div>
+        <div>
+          <img src="img/members/WalletConnect.svg" title="WalletConnect" alt="WalletConnect">
+        </div>
+        <div>
+          <img src="img/members/WallETH.svg" title="WallETH" alt="WallETH">
+        </div>
+        <div>
+          <img src="img/members/XDEFI.svg" title="XDEFI" alt="XDEFI">
+        </div>
+        <div>
+          <img src="img/members/ZenGo.svg" title="ZenGo" alt="ZenGo">
+        </div>
+      </div>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-1.11.0.min.js" integrity="sha384-/Gm+ur33q/W+9ANGYwB2Q4V0ZWApToOzRuA8md/1p9xMMxpqnlguMvk8QuEFWA1B" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" integrity="sha384-9tt8DlZQhE63eBuKml9tnMclfDeo/8/wstzUrBQStZZkCCvwfw78IiV+r9o600g2" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    let groups = document.querySelector('.carousel')
+    for (let group = groups.children.length; group >= 0; group--) {
+      groups.appendChild(groups.children[Math.random()*group | 0]);
+    }
+    $('.carousel').slick({
+      slidesToShow: 6,
+      slidesToScroll: 1,
+      autoplay: true,
+      infinite: true,
+      autoplaySpeed: 2000,
+    });
+  });
+</script>
+</body>
+</html>

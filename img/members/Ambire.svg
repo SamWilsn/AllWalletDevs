@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37.698" height="56.627" alt="Ambire logo" version="1.1" viewBox="0 0 37.698 56.623" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="logo_svg__a" x1="4969.6" x2="4957.4" y1="6115.7" y2="6111.5" gradientTransform="scale(.82389 1.2138)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6000ff" offset="0"/>
+   <stop stop-color="#4900c3" offset=".651"/>
+   <stop stop-color="#320086" offset="1"/>
+  </linearGradient>
+  <linearGradient id="logo_svg__b" x1="7334.5" x2="7339.2" y1="4793.1" y2="4801.4" gradientTransform="scale(.68974 1.4498)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6a0aff" offset="0"/>
+   <stop stop-color="#892aff" offset=".047"/>
+   <stop stop-color="#6a0aff" offset=".102"/>
+   <stop stop-color="#a94aff" offset=".902"/>
+   <stop stop-color="#a94aff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="logo_svg__c" x1="5903.4" x2="5911.5" y1="6407.7" y2="6416" gradientTransform="scale(.86123 1.1611)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9335fe" offset="0"/>
+   <stop stop-color="#a954fe" offset=".031"/>
+   <stop stop-color="#bf73ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="logo_svg__d" x1="3493.6" x2="3480.5" y1="4798.5" y2="4811.7" gradientTransform="scale(.81285 1.2302)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6a0aff" offset="0"/>
+   <stop stop-color="#8c2dff" offset=".51"/>
+   <stop stop-color="#af50ff" offset=".969"/>
+   <stop stop-color="#af50ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="logo_svg__e" x1="2862.7" x2="2863.7" y1="6520.5" y2="6526.3" gradientTransform="scale(.97445 1.0262)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6000ff" offset="0"/>
+   <stop stop-color="#3e00a5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="logo_svg__f" x1="3776.6" x2="3836.2" y1="3776.7" y2="3769" gradientTransform="scale(.70916 1.4101)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9838ff" offset="0"/>
+   <stop stop-color="#af50ff" offset=".322"/>
+   <stop stop-color="#6000ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="logo_svg__g" x1="6320.7" x2="6333.4" y1="3405.9" y2="3418.2" gradientTransform="scale(.6456 1.549)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6f0fff" offset="0"/>
+   <stop stop-color="#a94aff" offset=".702"/>
+   <stop stop-color="#a94aff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="logo_svg__h" x1="3075" x2="3081.2" y1="8628.8" y2="8634.9" gradientTransform="scale(1.3273 .75338)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ae60ff" offset="0"/>
+   <stop stop-color="#b669ff" offset=".031"/>
+   <stop stop-color="#bf73ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-.00096885 -.0019998)" data-name="Ambire logo">
+  <g data-name="Group 46">
+   <path d="m30.229 21.37 7.431 15.817a0.449 0.449 0 0 1-0.091 0.493l-19.548 18.888a0.217 0.217 0 0 1-0.366-0.165v-17.352l12.318-11.891a0.4 0.4 0 0 0 0.128-0.311l0.036-5.479c0-0.037 0.078-0.037 0.092 0z" fill="#6000ff" data-name="Path 82"/>
+   <g fill-rule="evenodd">
+    <path transform="translate(-4065.7 -7378.8)" d="m4083.3 7417.8v17.353a0.217 0.217 0 0 0 0.366 0.164l19.547-18.887a0.446 0.446 0 0 0 0.092-0.492l-7.632-10.088z" fill="url(#logo_svg__a)" data-name="Path 83"/>
+    <path transform="translate(-5028.4 -6929.2)" d="m5058.6 6950.5a0.042 0.042 0 0 0-0.044 0.043l-0.031 5.479a0.459 0.459 0 0 1-0.071 0.255l7.662 10.341a0.479 0.479 0 0 0-0.037-0.275l-7.431-15.817a0.052 0.052 0 0 0-0.044-0.025z" fill="url(#logo_svg__b)" data-name="Path 84"/>
+    <path transform="translate(-5053.6 -7412.7)" d="m5091.3 7450.1a0.473 0.473 0 0 0-0.037-0.274l-0.384-0.822-6.918-8.807z" fill="url(#logo_svg__c)" data-name="Path 85"/>
+   </g>
+   <path d="m12.658 8.09-3.5 9.9a0.461 0.461 0 0 0 0.018 0.347l3.259 6.411-8.969 5.078a0.234 0.234 0 0 1-0.311-0.091l-1.94-4.037a0.389 0.389 0 0 1 0.037-0.421l11.311-17.243a0.056 0.056 0 0 1 0.095 0.056z" fill="#6000ff" data-name="Path 86"/>
+   <g fill-rule="evenodd">
+    <path transform="translate(-2826.3 -5894.2)" d="m2838.9 5902.2a0.047 0.047 0 0 0-0.035 0.014l-10.828 16.506-0.012 0.022 7.436-6.573 0.023-0.066v-0.01l3.471-9.827a0.054 0.054 0 0 0-0.055-0.07z" fill="url(#logo_svg__d)" data-name="Path 87"/>
+    <path transform="translate(-2783.3 -6669.9)" d="m2784.6 6695.2a0.387 0.387 0 0 0-0.036 0.419l1.939 4.038a0.235 0.235 0 0 0 0.312 0.09l8.968-5.077-3.258-6.411a0.455 0.455 0 0 1-0.018-0.348z" fill="url(#logo_svg__e)" data-name="Path 88"/>
+    <path transform="translate(-2692 -5270.2)" d="m2709.6 5270.3v15.4a0.436 0.436 0 0 1-0.091 0.256l-17.479 23.691a0.421 0.421 0 0 0 0.055 0.565l12.262 11.837a0.21 0.21 0 0 0 0.348-0.073l13.324-31.18a0.5 0.5 0 0 0 0-0.329l-8.254-20.2a0.078 0.078 0 0 0-0.074-0.054 0.09 0.09 0 0 0-0.091 0.087z" fill="url(#logo_svg__f)" data-name="Path 89"/>
+    <path transform="translate(-4063.9 -5270.2)" d="m4081.6 5270.2a0.091 0.091 0 0 0-0.091 0.09l0.01 15.4a0.431 0.431 0 0 1-0.023 0.127l8.333 4.388-8.151-19.949a0.08 0.08 0 0 0-0.074-0.056zm-0.109 15.615 1.591 0.914z" fill="url(#logo_svg__g)" data-name="Path 90"/>
+    <path transform="translate(-4063.9 -6485.2)" d="m4090 6505.6a0.5 0.5 0 0 0-0.026-0.16l-0.106-0.26-8.339-4.388 1.6 0.913z" fill="url(#logo_svg__h)" data-name="Path 91"/>
+   </g>
+   <path d="m1.722 24.568-0.46 0.7 7.9-7.279z" fill="#b46cf3" data-name="Path 92"/>
+  </g>
+ </g>
+</svg>
